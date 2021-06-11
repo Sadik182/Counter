@@ -1,0 +1,22 @@
+body{
+    background: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#value{
+    margin-top: 35px;
+    margin-left: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn{
+    margin-top: 45px;
+    margin-left: 20px;
+  
+}
+.button-container{
+    align-items: center;
+    margin-left: 40%;
+}
